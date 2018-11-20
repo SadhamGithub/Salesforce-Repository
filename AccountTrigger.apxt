@@ -1,3 +1,3 @@
 trigger AccountTrigger on Account (After insert) {
-  test updated 1
+  //test updated 1
 }
